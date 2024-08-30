@@ -1,0 +1,10 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "classpath",
+        "Configurer",
+        "datacenter",
+        "Keyspace",
+        "populator"
+    ]
+}
